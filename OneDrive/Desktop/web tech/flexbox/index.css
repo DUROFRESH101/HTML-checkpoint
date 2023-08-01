@@ -1,0 +1,9 @@
+.container {
+    border: 5px solid #1e1b4b;
+    display: flex;
+    justify-content: end;
+}
+
+.home {
+    flex: 1;
+}
